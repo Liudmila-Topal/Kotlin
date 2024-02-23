@@ -1,4 +1,4 @@
-/*
+package objectsAndStrings/*
     Constants:
 
     Values that don't change

@@ -1,3 +1,5 @@
+package objectsAndStrings
+
 fun main(args: Array<String>){
     val pet = "Crocodile"
     println(pet.length)

@@ -1,4 +1,4 @@
-/*
+package objectsAndStrings/*
     Strings in Kotlin can contain expressions
     The expressions is evaluated and inserted (concatenated) into the string
     An expressions starts with a $ sign and can have braces {}
