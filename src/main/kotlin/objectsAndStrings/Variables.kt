@@ -1,4 +1,4 @@
-/*
+package objectsAndStrings/*
     Variables:
     Changeable (mutable) - changeable - var
     Read only (immutable) - unchangeable - val
